@@ -5,10 +5,9 @@ Movie app created with React. Features include user authentication, movie list, 
 ### https://metflix-750cf.web.app/
 
 # Screenshot
-<img src="https://iili.io/DPC07I.gif" alt="DPC07I.gif" border="0" />
-<img src="https://iili.io/DPC6Ex.gif" alt="DPC6Ex.gif" border="0" />
-<img src="https://iili.io/DPn9Ev.gif" alt="DPn9Ev.gif" border="0" />
-
+<a href="https://iili.io/DPC07I.gif">Screenshot_1</a>
+<a href="https://iili.io/DPC6Ex.gif">Screenshot_1</a>
+<a href="https://iili.io/DPn9Ev.gif">Screenshot_1</a>
 ## Current Version
 
 **_Version 1.0.0-ALPHA_**
